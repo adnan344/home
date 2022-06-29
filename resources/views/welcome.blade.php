@@ -39,6 +39,11 @@
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
 
                 Welcome to the Home Watch System.
+
+                <br />
+                This system belongs to <strong>Shellemd</strong>
+                <br />
+                <img src="{{asset('img.png')}}" />
             </div>
         </div>
     </body>
