@@ -38,7 +38,7 @@
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
 
-                Welcome to the Home Watch System
+                Welcome to the Home Watch System.
             </div>
         </div>
     </body>
